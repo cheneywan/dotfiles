@@ -3,6 +3,9 @@
 	"installed_packages":
 	[
 		"CoffeeScript",
+		"Alignment",
+		"MarkdownPreview",
+		"Git",
 		"Emmet",
 		"Handlebars",
 		"Jade",
