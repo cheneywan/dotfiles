@@ -1,18 +1,17 @@
 {
-	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"CoffeeScript",
 		"Alignment",
-		"MarkdownPreview",
-		"Git",
-		"Emmet",
-		"Handlebars",
+		"API Blueprint",
+		"Better CoffeeScript",
 		"Jade",
 		"LESS",
+		"Monokai Extended",
 		"Package Control",
-		"Stylus",
 		"Theme - Flatland"
 	]
 }
-
